@@ -1,0 +1,13 @@
+{
+  "name": "sprite-workshop",
+  "displayName": "Sprite Workshop",
+  "version": "0.1.0",
+  "description": "Creates deterministic browser-friendly character sprite sheets.",
+  "author": {
+    "name": "Hawk Foreste"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/"
+  ]
+}

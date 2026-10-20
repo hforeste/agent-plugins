@@ -1,0 +1,19 @@
+{
+  "name": "agent-art-studio",
+  "description": "Deterministic character-art plugins for browser-based agents.",
+  "owner": {
+    "name": "Hawk Foreste"
+  },
+  "plugins": [
+    {
+      "name": "sprite-workshop",
+      "source": "./plugins/sprite-workshop",
+      "description": "Create consistent browser-friendly character sprite sheets."
+    },
+    {
+      "name": "ops-characters",
+      "source": "./plugins/ops-characters",
+      "description": "Render operational health summaries as accessible character cards."
+    }
+  ]
+}

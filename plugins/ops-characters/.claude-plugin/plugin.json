@@ -1,0 +1,13 @@
+{
+  "name": "ops-characters",
+  "displayName": "Ops Characters",
+  "version": "0.1.0",
+  "description": "Creates deterministic, accessible service-health character cards.",
+  "author": {
+    "name": "Hawk Foreste"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/"
+  ]
+}
